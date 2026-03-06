@@ -16,10 +16,6 @@ https://mega.nz/file/e55UUa4b#1X9YGClVYGNQ4h4NsSVS3P_qjRVfEdbZHTvMvzilqqY
  
 <hr>
 
-### ✎  Complete Walkthrough 
-https://medium.com/@karthikparambil9/easy-c80802be1e4f
-
-
 ### SHA256 Checksum
 To verify the integrity of the downloaded machine, use the following SHA256 checksum:
 
